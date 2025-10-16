@@ -1,0 +1,100 @@
+button{
+    padding: 5px;
+    transition: transform 0.3s ease;
+    width: 80px;
+    margin-left: 15px;
+    
+}
+button:hover{
+    transform: scale(1.3);
+    box-shadow: 0 0 10px 0 rgb(6, 99, 230);
+    background-color: aquamarine;
+    border: white;
+    border-radius: 10px;
+    font-family: Orbitron; 
+}
+body{
+    margin-left: 30px;
+}
+body .table1 th, .table2 th, .table3 th{
+    padding-bottom: 10px;
+    text-shadow: 0 0 15px blue;
+    font-family: Orbitron;
+    
+}
+
+/* Table1 */
+body .table1 .i1 input, .i2 input, .i3 input{
+    font-family: Orbitron; 
+    width: 110px;
+    border-radius: 3px;
+}
+body .table1 .Production, .Talent, .Gown{
+    background-color: aquamarine;
+    font-family: Orbitron; 
+    padding: 5px;
+    border-radius: 5px;
+}
+body .table1 .i1 input:hover{
+    background-color: aquamarine;
+}
+body .table1 .i2 input:hover{
+    background-color: aquamarine;
+}
+body .table1 .i3 input:hover{
+    background-color: aquamarine;
+}
+
+/* Table 2 */
+body .table2 .i4 input, .i5 input, .i6 input{
+    font-family: Orbitron; 
+    width: 110px;
+    border-radius: 3px;
+}
+body .table2 .Production, .Talent, .Gown{
+    background-color: aquamarine;
+    font-family: Orbitron; 
+    padding: 5px;
+    border-radius: 5px;
+}
+body .table2 .i4 input:hover{
+    background-color: aquamarine;
+}
+body .table2 .i5 input:hover{
+    background-color: aquamarine;
+}
+body .table2 .i6 input:hover{
+    background-color: aquamarine;
+}
+body .table2{
+    margin-top: 30px; 
+}
+
+/* Table3 */
+body .table3 .i7 input, .i8 input, .i9 input{
+    font-family: Orbitron; 
+    width: 110px;
+    border-radius: 3px;
+}
+body .table3 .Production, .Talent, .Gown{
+    background-color: aquamarine;
+    font-family: Orbitron; 
+    padding: 5px;
+    border-radius: 5px;
+}
+body .table3 .i7 input:hover{
+    background-color: aquamarine;
+}
+body .table3 .i8 input:hover{
+    background-color: aquamarine;
+}
+body .table3 .i9 input:hover{
+    background-color: aquamarine;
+}
+body .table3{
+    margin-top: 30px; 
+}
+
+
+
+
